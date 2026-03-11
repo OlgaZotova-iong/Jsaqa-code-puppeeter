@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "author": "",
+  "author": "Olga Zotova",
   "license": "ISC",
   "dependencies": {
     "jest": "^27.3.1",
